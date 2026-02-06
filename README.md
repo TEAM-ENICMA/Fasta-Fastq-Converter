@@ -1,4 +1,4 @@
-# Fasta-Fastq-Converter
+# Fastq-Fasta-Converter
 
 Fastq-Fasta Converter is a desktop application that converts Fastq files into Fasta files.
 
